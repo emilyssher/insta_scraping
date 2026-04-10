@@ -76,7 +76,7 @@ CLUBS = [
     #("Proud Colors",                                                   "cuproudcolors",             None),
     #("Student Worker Solidarity",                                      "swscolumbia",               None),
     #("Law School Coalition for a Free Palestine",                      "clsforfreepalestine",       None),
-    ("Student Workers of Columbia",                                    "sw_columbia",               None),
+    #("Student Workers of Columbia",                                    "sw_columbia",               None),
     ("Black Student Organization",                                     "columbiabso",               None),
     ("SIPA Palestine Working Group",                                   "sipapwg",                   None),
     ("Columbia Vietnamese Students Association",                       "columbia.vsa",              None),
