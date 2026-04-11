@@ -86,7 +86,7 @@ CLUBS = [
     #("Muslim Students Association",                                    "columbia_msa",              None),
     #("African Studies Working Group",                                  "tc_aswg1",                  None),
     #("Caribbean Students Association",                                 "csacolumbia",               None),
-    ("Barnard Organization of Soul and Solidarity",                    "barnardboss",               None),
+    #("Barnard Organization of Soul and Solidarity",                    "barnardboss",               None),
     ("AZINE Asian / American Arts & Zine Collective",                  None,          "azine.collective private"),
     ("CU Turath (Arab Students Association)",                          "cuturath",                  None),
     ("Columbia Humanitarian Org. for Migration and Emergencies",       None,                        "no_handle"),
